@@ -1,6 +1,7 @@
 
 # Auto_depression_detect
 The primary objective of this project is to develop a comprehensive tri‑modal deep learning framework for automatic depression screening by integrating acoustic, linguistic, and facial expression features extracted from clinical interview data.
+1232344
 
 The system employs:
 
